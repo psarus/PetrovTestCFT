@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PetrovTestCFT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PetrovTestCFT_jar</output-path>
+    <root id="archive" name="PetrovTestCFT.jar">
+      <element id="module-output" name="PetrovTestCFT" />
+    </root>
+  </artifact>
+</component>
