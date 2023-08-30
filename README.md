@@ -13,9 +13,9 @@
   > примеры входных файлов,  
   файл pom.xml с конфигурацией проекта при его создании с помощью системы сборки Maven
 + По пути `out\artifacts\PetrovTestCFT_jar` находится «сбилденный» исполняемый jar-файл `PetrovTestCFT.jar`
-+ По пути `src\main\java\org\example` файлы программы с разрешением .java</li>
++ По пути `src\main\java\cft\petrov` файлы программы с разрешением .java</li>
 + По пути `src\main\resources\META-INF` лежит файл MANIFEST.MF c указанием входной точки в программу.
-+ По пути `target\classes\org\example` скомпилированные файлы программы с разрешением .class.</li>
++ По пути `target\classes\cft\petrov` скомпилированные файлы программы с разрешением .class.</li>
 
 ## Аргументы и файлы
 ***
